@@ -1,0 +1,5 @@
+# Mengalikan sebuah string dengan bilangan bulat
+kata = "Hello "
+jumlah = 3
+hasil = kata * jumlah
+print(hasil)
